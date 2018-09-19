@@ -1,0 +1,40 @@
+****************
+*****Task 2*****
+****************
+
+
+Input 1 : 4459178306 TF 10
+Output 1 : 
+[4459178306, 1.0, ['agra', 'fort', 'mughal']]
+[4459177806, 1.0, ['agra', 'fort', 'mughal']]
+[4459175892, 1.0, ['agra', 'fort', 'mughal']]
+[4458397675, 1.0, ['agra', 'fort', 'mughal']]
+[4458397751, 1.0, ['agra', 'fort', 'mughal']]
+[4459176836, 1.0, ['agra', 'fort', 'mughal']]
+[4459180662, 1.0, ['agra', 'fort', 'mughal']]
+[4458401155, 1.0, ['agra', 'fort', 'mughal']]
+[4459177390, 1.0, ['agra', 'fort', 'mughal']]
+[4458401195, 1.0, ['agra', 'fort', 'mughal']]
+Execution Time :  12.954336881637573
+
+
+
+Input 2 : 288051306 DF 5
+Output 2 : 
+[288051306, 1.0, ['href', 'europe', 'ruin']]
+[135114844, 0.9427736335576768, ['href', 'europe', 'ruin']]
+[135116270, 0.7513623981136276, ['href', 'europe', 'ruin']]
+[135116101, 0.7138539727204238, ['href', 'europe', 'ruin']]
+[135115983, 0.7138539727204238, ['href', 'europe', 'ruin']]
+Execution Time :  25.20993947982788
+
+
+
+Input 3 : 288051306 TF-IDF 5
+Output 3 : 
+[288051306, 1.0, ['poseidon', 'erectheum', 'erechtheus']]
+[135114844, 0.6441243041043665, ['poseidon', 'erechtheus', 'erectheum']]
+[9069976672, 0.06835776024422857, ['caryatid', 'porch', 'athen']]
+[5251535876, 0.06335445830888174, ['caryatid', 'porch', 'acropoli']]
+[3298563892, 0.05183820460780338, ['porch', 'north', 0]]
+Execution Time :  21.034472942352295

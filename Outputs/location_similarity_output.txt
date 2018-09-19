@@ -1,0 +1,37 @@
+****************
+*****Task 3*****
+****************
+
+
+Input 1 : 27 TF 5
+Output 1 : 
+['christ_the_redeemer_rio', 1.0, ['de', 'rio', 'brazil']]
+['arc_de_triomphe', 0.31900520615279526, ['de', 'der', 'quot']]
+['casa_rosada', 0.2872787277535433, ['de', 'quot', 'la']]
+['la_madeleine', 0.22506575739495838, ['de', 'quot', 'la']]
+['castillo_de_san_marcos', 0.16489391798749212, ['de', 'quot', '2008']]
+Execution Time :  14.163812398910522
+
+
+
+Input 2 : 6 DF 5
+Output 2 : 
+['neues_museum', 1.0, ['view', 'rel', 'photo']]
+['altes_museum', 0.5876270874560295, ['view', 'rel', 'photo']]
+['arc_de_triomphe', 0.567349614692641, ['view', 'rel', 'photo']]
+['acropolis_athens', 0.5470737962594341, ['view', 'rel', 'photo']]
+['albert_memorial', 0.539601406937375, ['view', 'rel', 'photo']]
+Execution Time :  14.496938705444336
+
+
+
+Input 3 : 6 TF-IDF 7
+Output 3 : 
+['neues_museum', 1.0, ['neuesmuseum', 'berlin', 'neue']]
+['berlin_cathedral', 0.2591103383653162, ['berlin', 'germany', 'alemania']]
+['altes_museum', 0.20876609563178353, ['berlin', 'neuesmuseum', 'museum']]
+['brandenburg_gate', 0.1784746786117778, ['berlin', 'germany', 'brandenburg']]
+['arc_de_triomphe', 0.007268732275762603, ['de', 'neue', 'du']]
+['casa_rosada', 0.006042805597161931, ['de', 'la', 'en']]
+['pont_alexandre_iii', 0.005479011168838098, ['de', 'le', 'iii']]
+Execution Time :  14.87601923942566

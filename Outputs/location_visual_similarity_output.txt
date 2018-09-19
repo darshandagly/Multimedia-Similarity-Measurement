@@ -1,0 +1,13 @@
+****************
+*****Task 4*****
+****************
+
+
+Input 1 :4 5
+Output 1 : 
+['la_madeleine', 'acropolis_athens', 0.7445318376186681, [['acropolis_athens CM', 0.6846157276999377], ['acropolis_athens CM3x3', 0.8305434338808957], ['acropolis_athens CN', 0.8896205693452738], ['acropolis_athens CN3x3', 0.9314414057548019], ['acropolis_athens CSD', 0.830693852400896], ['acropolis_athens GLRLM', 0.5201145938543597], ['acropolis_athens GLRLM3x3', 0.5378999232951023], ['acropolis_athens HOG', 0.7730844607424007], ['acropolis_athens LBP', 0.6880596241585178], ['acropolis_athens LBP3x3', 0.7592447850544956]]]
+['la_madeleine', 'agra_fort', 0.8044838769935536, [['agra_fort CM', 0.828459168183905], ['agra_fort CM3x3', 1.0], ['agra_fort CN', 0.9640556521528322], ['agra_fort CN3x3', 0.9909412305364461], ['agra_fort CSD', 0.8528815965907094], ['agra_fort GLRLM', 0.5363976759321526], ['agra_fort GLRLM3x3', 0.5797240617446088], ['agra_fort HOG', 0.8071977524461966], ['agra_fort LBP', 0.7110617567347322], ['agra_fort LBP3x3', 0.7741198756139541]]]
+['la_madeleine', 'albert_memorial', 0.7645932883470621, [['albert_memorial CM', 0.720461832141176], ['albert_memorial CM3x3', 0.8363274976063366], ['albert_memorial CN', 0.8842596167244727], ['albert_memorial CN3x3', 0.930825634122359], ['albert_memorial CSD', 0.8346499348289572], ['albert_memorial GLRLM', 0.5353583352634498], ['albert_memorial GLRLM3x3', 0.5707668174641495], ['albert_memorial HOG', 0.76219686479214], ['albert_memorial LBP', 0.7569016410882138], ['albert_memorial LBP3x3', 0.8141847094393663]]]
+['la_madeleine', 'altes_museum', 0.8032448418205865, [['altes_museum CM', 0.8848420209380823], ['altes_museum CM3x3', 0.9217231371726065], ['altes_museum CN', 1.0], ['altes_museum CN3x3', 0.9917565298900316], ['altes_museum CSD', 0.857466486626616], ['altes_museum GLRLM', 0.5752066449097316], ['altes_museum GLRLM3x3', 0.48038693166041935], ['altes_museum HOG', 0.8088658662619529], ['altes_museum LBP', 0.7232500374698203], ['altes_museum LBP3x3', 0.7889507632766054]]]
+['la_madeleine', 'amiens_cathedral', 0.7722418403895736, [['amiens_cathedral CM', 0.8072293926244616], ['amiens_cathedral CM3x3', 0.7906036173746673], ['amiens_cathedral CN', 0.9276206377161361], ['amiens_cathedral CN3x3', 0.9202961534643134], ['amiens_cathedral CSD', 0.9659596533143743], ['amiens_cathedral GLRLM', 0.5386461358332915], ['amiens_cathedral GLRLM3x3', 0.35715569941586334], ['amiens_cathedral HOG', 0.8645394900305751], ['amiens_cathedral LBP', 0.767813636892839], ['amiens_cathedral LBP3x3', 0.782553987229214]]]
+Program Execution Time :  40.661075592041016
